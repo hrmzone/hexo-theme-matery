@@ -74,7 +74,7 @@ dream:
   enable: true
   showTitle: true
   title: 初衷
-  text: 受够了网上五花八门下载器、客户端、会员以及匪夷所思的限速，回归互联网的初衷：共享精神。我为人人、人人为我！
+  text: 受够了网上五花八门的下载器、客户端、会员以及匪夷所思的限速，回归互联网的初衷：共享精神。我为人人、人人为我！
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -167,7 +167,7 @@ socialLink:
   qq: # 1181062873
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
-  rss: true # true、false
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
